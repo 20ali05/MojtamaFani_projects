@@ -1,0 +1,19 @@
+Username: (2,)
+
+--------------------
+
+Username: aaa
+Printer * 10
+Pizza * 30
+Pizza * 30
+Sandwich * 29
+Camera * 10
+Pizza * 30
+
+--------------------
+
+Username: Sean696
+Coat * 2
+
+--------------------
+
